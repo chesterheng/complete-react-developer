@@ -5,6 +5,8 @@
 - [Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL) Live Study Guide](#complete-react-developer-in-2020-w-redux-hooks-graphql-live-study-guide)
   - [Table of Contents](#table-of-contents)
   - [**Section 2: React Key Concepts](#section-2-react-key-concepts)
+    - [React Concepts](#react-concepts)
+    - [How To Be A Great React Developer](#how-to-be-a-great-react-developer)
   - [**Section 3: React Basics](#section-3-react-basics)
   - [**Section 4: Master Project: Setting Up E-commerce Project](#section-4-master-project-setting-up-e-commerce-project)
   - [**Section 5: Master Project: React Router and Routing](#section-5-master-project-react-router-and-routing)
@@ -31,6 +33,34 @@
   - [**Section 26: Master Project: React Performance](#section-26-master-project-react-performance)
 
 ## **Section 2: React Key Concepts
+
+### React Concepts
+
+- Before React
+- Why React?
+- Declarative: Don't touch the DOM. I'll do it
+  - Use State and Props to describe the component
+  - React will change the display according to the state 
+- Component Architecture: Build websites like lego blocks
+  - State + JSX = Component
+- Unidirectional Data Flow
+  - State, Props and Components -> Virtual DOM -> DOM
+  - One Way Data Flow down the DOM
+  - Easy to debug. Goto state location and debug downward
+- UI Layer: UI, The rest is up to you
+  - Angular: Kitchen
+  - React: Stove
+  - [React Desktop](https://reactdesktop.js.org/)
+  - [React Blessed](https://github.com/Yomguithereal/react-blessed)
+  - [React 360](https://facebook.github.io/react-360/)
+
+**[⬆ back to top](#table-of-contents)**
+
+### How To Be A Great React Developer
+
+- Decide on Components
+- Decide the state and where it lives
+- What changes when state changes
 
 **[⬆ back to top](#table-of-contents)**
 
