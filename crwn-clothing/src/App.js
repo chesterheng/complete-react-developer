@@ -1,9 +1,12 @@
 import React from 'react';
+import HomePage from './homepage.component';
 import './App.css';
 
-function App() {
+const App = () => {
   return (
-    <div>Hello World</div>
+    <div>
+      <HomePage />
+    </div>
   );
 }
 

@@ -22,7 +22,7 @@
   - [**Section 13: Master Project: Stripe Payments Part 1**](#section-13-master-project-stripe-payments-part-1)
   - [**Section 14: Master Project: Deploying To Production**](#section-14-master-project-deploying-to-production)
   - [**Section 15: Master Project: CSS in JS - styled-components**](#section-15-master-project-css-in-js---styled-components)
-  - [**Section 16: Master Project: Advanced Redux + Firebase](#section-16-master-project-advanced-redux--firebase)
+  - [**Section 16: Master Project: Advanced Redux + Firebase**](#section-16-master-project-advanced-redux--firebase)
   - [**Section 17: Master Project: HOC Patterns**](#section-17-master-project-hoc-patterns)
   - [**Section 18: Master Project: Asynchronous Redux**](#section-18-master-project-asynchronous-redux)
   - [**Section 19: Master Project: Container Pattern**](#section-19-master-project-container-pattern)
@@ -136,7 +136,7 @@
 
 **[⬆ back to top](#table-of-contents)**
 
-## **Section 16: Master Project: Advanced Redux + Firebase
+## **Section 16: Master Project: Advanced Redux + Firebase**
 
 **[⬆ back to top](#table-of-contents)**
 
